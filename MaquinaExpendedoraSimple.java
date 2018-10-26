@@ -74,4 +74,8 @@ public class MaquinaExpendedoraSimple {
     public int getTotalDineroAcumulado() {
         return totalDineroAcumulado;
     }
+    
+    public void cambiarPrecioBillete(int nuevoPrecioBillete){
+        precioBillete = nuevoPrecioBillete;
+    }
 }
