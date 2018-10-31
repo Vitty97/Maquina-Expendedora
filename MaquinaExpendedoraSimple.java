@@ -80,7 +80,7 @@ public class MaquinaExpendedoraSimple {
     }
     
     public void reducirPrecioBillete(int reduccionPrecio){
-        precioBillete = precioBillete - reduccionPrecio;
+        precioBillete = precioBillete - reduccionPrecio; //Esto es una prueba
     }
     
     public void vaciarDepositoDinero(){
